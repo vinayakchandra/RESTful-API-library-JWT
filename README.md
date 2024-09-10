@@ -3,7 +3,7 @@
 ## Overview
 
 This is a Flask-based API for managing books in a database, secured with JSON Web Token (JWT) authentication. The API
-supports operations such as retrieving, adding, updating, and deleting books. Authentication is required for all actions
+supports all CRUD operations such as retrieving, adding, updating, and deleting books. Authentication is required for all actions
 via JWT, which is obtained by logging in as a user.
 
 ## Features
